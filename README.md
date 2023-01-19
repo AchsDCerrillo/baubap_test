@@ -23,6 +23,6 @@ password: Test$123
 * Observables: FlowStates
 * Background threads: coroutines
 
-## This is the (video)[https://drive.google.com/file/d/1rWVttGf4DtfkIXUngL-3C5mGPtBUF_C3/view?usp=share_link] with the app working :D 
-[![asciicast](https://drive.google.com/file/d/1rWVttGf4DtfkIXUngL-3C5mGPtBUF_C3/view?usp=share_link)](Login Test)
+## This is the video with the app working :D 
 
+https://user-images.githubusercontent.com/29001218/213540056-e39ddf1c-fe59-40e5-b29e-1d34858d8b13.mp4
