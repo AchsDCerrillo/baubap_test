@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+    <string name="empty_error">Please enter a value</string>
+    <string name="invalid_email">Add a valid email, please</string>
+    <string name="max_size_error">This text must have max %s characters</string>
+    <string name="min_size_error">at least %s characters</string>
+    <string name="invalid_characters_error">There are some invalid characters</string>
+    <string name="not_the_same_error">This values are not the same</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_login">Invalid credentials</string>
+    <string name="success">Login succeed</string>
+    <string name="loading">Loading</string>
+</resources>
